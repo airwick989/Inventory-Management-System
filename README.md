@@ -1,4 +1,4 @@
-# database-management-project
+# Inventory-Management-System
 
 
 
